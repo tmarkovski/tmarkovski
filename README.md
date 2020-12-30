@@ -1,4 +1,4 @@
-### Hi! My name is Jonathan Hoffstadt 👋
+### Hi! My name is Tomislav Markovski 👋
 
 #### Where to find me
 - [Twitter](https://twitter.com/tmarkovski)
