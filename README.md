@@ -34,4 +34,4 @@ My website is a small operating system. It has draggable windows, a terminal, a 
 
 ### `guest@t7m8:~$ ping tomislav`
 
-[t7m8.com](https://t7m8.com) · [LinkedIn](https://www.linkedin.com/in/tmarkovski/)
+[t7m8.com](https://t7m8.com) · [LinkedIn](https://www.linkedin.com/in/tmarkovski/) · [Threads](https://www.threads.com/@geddoff)
