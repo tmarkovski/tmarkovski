@@ -14,18 +14,12 @@ I build practical generative AI applications — document processing, search, an
 
 | | |
 | --- | --- |
+| 🖋️ **[SignThis](https://signthis.net)** | Free e-signatures that never see your document. Press and hold to sign a PDF in your own handwriting, all in the browser, and the file comes back sealed with a trusted timestamp anyone can check. |
+| 💬 **[Errol](https://errol.chat)** | A Mac menu bar app that lets ChatGPT and Claude talk it out. Give it a topic and Errol carries every reply between the two desktop apps while you watch. |
 | 🍏 **[Ziva](https://ziva.fit)** | Nutrition tracking through conversation. Describe a meal in Claude or ChatGPT and Ziva resolves it to USDA food data with a full nutrient breakdown. |
 | ✍️ **[Longhand](https://trylonghand.com)** | Neural handwriting synthesis for web and mobile. Typed text goes in, expressive human-looking handwriting comes out. |
 | 👁️ **[Argus](https://github.com/tmarkovski/dbos-argus)** | A self-hosted dashboard for DBOS durable workflows. Point it at Postgres or SQLite and watch your workflows think. |
 | 💳 **[Very Good Wallet](https://verygoodwallet.com)** | A credential wallet where your passkey *is* the wallet — no seed phrase, no custody, plus BBS selective disclosure and in-browser zero-knowledge proofs. |
-
-### `guest@t7m8:~$ ls open-source/`
-
-- **[aries-framework-dotnet](https://github.com/hyperledger/aries-framework-dotnet)** — a .NET framework for decentralized identity and verifiable credentials (author & maintainer)
-- **[did-key.rs](https://github.com/decentralized-identity/did-key.rs)** — a Rust implementation of the `did:key` method (author, DIF contributor)
-- **[bbs](https://github.com/trinsic-id/bbs)** — BBS signatures in Rust, with selective disclosure and zero-knowledge proofs (author, IETF contributor)
-
-Standards mileage: W3C Credentials CG · Decentralized Identity Foundation · Hyperledger · IETF
 
 ### `guest@t7m8:~$ open https://t7m8.com`
 
