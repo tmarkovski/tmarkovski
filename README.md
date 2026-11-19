@@ -14,6 +14,7 @@ I build practical generative AI applications — document processing, search, an
 
 | | |
 | --- | --- |
+| 🛖 **[Roga](https://roga.sh)** | A fast, native Git client for the Mac, made for reviewing what your coding agents wrote. Each worktree shows whether its Claude Code or Codex session is working, finished or waiting for you, and a branch opens like a pull request. |
 | 🖋️ **[SignThis](https://signthis.net)** | Free e-signatures that never see your document. Press and hold to sign a PDF in your own handwriting, all in the browser, and the file comes back sealed with a trusted timestamp anyone can check. |
 | 💬 **[Errol](https://errol.chat)** | A Mac menu bar app that lets ChatGPT and Claude talk it out. Give it a topic and Errol carries every reply between the two desktop apps while you watch. |
 | 🍏 **[Ziva](https://ziva.fit)** | Nutrition tracking through conversation. Describe a meal in Claude or ChatGPT and Ziva resolves it to USDA food data with a full nutrient breakdown. |
