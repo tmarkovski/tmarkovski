@@ -1,4 +1,4 @@
-<a href="https://t7m8.com"><img src="assets/t7-desktop.png" alt="The T7 Workstation — my portfolio site, styled as a retro desktop OS. Boot it at t7m8.com" width="100%"></a>
+<a href="https://t7m8.com"><img src="assets/t7-desktop.png" alt="The T7 Workstation — my portfolio site, styled as a retro desktop OS, with the About and Portfolio windows open. Boot it at t7m8.com" width="100%"></a>
 
 ### `guest@t7m8:~$ whoami`
 
